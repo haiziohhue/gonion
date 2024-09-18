@@ -1,3 +1,3 @@
-module  github.com/haiziohhue/gonion@0.0.1
+module  github.com/haiziohhue/gonion
 
 go 1.18
